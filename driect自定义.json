@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "sciencedirect.com",
+        "elsevier.com",
+        "clarivate.cn",
+        "youku.com",
+        "cnki.net",
+        "webofknowledge.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".sciencedirect.com",
+        ".elsevier.com",
+        ".clarivate.cn",
+        ".youku.com",
+        ".cnki.net",
+        ".webofknowledge.com"
+      ]
+    }
+  ]
+}
