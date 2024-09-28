@@ -10,7 +10,8 @@
         "cnki.net",
         "webofknowledge.com",
         "163.com",
-        "263.com"
+        "263.com",
+        "yanyue.cn"
       ]
     },
     {
@@ -20,7 +21,10 @@
         ".clarivate.cn",
         ".youku.com",
         ".cnki.net",
-        ".webofknowledge.com"
+        ".webofknowledge.com",
+        "163.com",
+        "263.com",
+        "yanyue.cn"
       ]
     }
   ]
